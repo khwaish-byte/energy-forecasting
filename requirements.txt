@@ -1,7 +1,8 @@
 Flask
 gunicorn
 joblib
-xgboost==1.7.5      <-- Replace with YOUR Colab version
-scikit-learn==1.2.2 <-- Replace with YOUR Colab version
-pandas==1.5.3       <-- Replace with YOUR Colab version
+xgboost
+scikit-learn
+pandas
+
 
